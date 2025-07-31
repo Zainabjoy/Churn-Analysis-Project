@@ -18,4 +18,8 @@ The objective of this project is to extract, clean, and analyze customer data to
 - Created DAX measures and performed analysis to uncover key trends 
 -Designed an interactive Power BI dashboard with dynamic visuals and slicers to clearly communicate insights.
 ## Dashboard
+<img src="https://github.com/Zainabjoy/Churn-Analysis-Project/blob/main/Churn%20Analysis%20PowerBI_page-0001.jpg?raw=true" 
+     alt="Churn Analysis Power BI Dashboard" 
+     width="800">
+
 
